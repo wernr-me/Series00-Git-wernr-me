@@ -8,3 +8,4 @@ Let's use ourimagination.
 I need you to imagine a chicken in front of a computer. 
 That chicken isn't special. It eats, makes chicken sound, lay eggs and runs like a chicken. 
 Then imagine that this chicken, we don't know how, is better in computer science than the guy who's writting this. I do think that this comparison explain my motivation to learn Python R and Git.
+![alt text](image-1.png)
